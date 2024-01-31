@@ -1,0 +1,22 @@
+mDA0	FP-DA0
+mNbDA	
+mRgl1	FP-Rgl1
+mRgl3	Rgl3
+mPeric	
+mMgl	
+mDA1	DA_ALDH1A1-
+mDA2	DA_ALDH1A1+
+mNbM	FP-NbM
+mNProg	NProg
+mRgl2	Rgl2
+mOMTN	OMTN
+mSert	
+mRN	RN
+	ProgFP
+	Gaba
+	GabaNb
+	NbML1
+	ProgBP
+	nonFP-DA0
+	nonFP-NbM
+	nonFP-Rgl1
